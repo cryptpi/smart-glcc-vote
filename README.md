@@ -6,7 +6,7 @@
 - Import the project files into  [REMIX IDE ONLINE EDITOR](https://remix.ethereum.org/)
 - Compile the Smart Contract using the Compile button
 - Deploy it
-- Use interactive interface to test the functionnalities specified in the smart contract
+- Use the interactive interface to test the functionnalities specified in the smart contract
     - Specify the candidat number to vote for the candidat(X).
     ![image1](./documentation/images/Screenshot_1.png)
     - Use Buttons **( candidat1, candidat2 )** to see candidat names.
